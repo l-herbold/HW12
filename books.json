@@ -1,0 +1,20 @@
+{
+        "name": "1984",
+        "author": "G Orwell",
+        "year": 1948,
+        "price": 12.99
+    }
+
+ {
+        "name": "Enigma",
+        "author": "Robert Harris",
+        "year": 1995,
+        "price": 9.5
+    }
+
+ {
+        "name": "Specifying Systems",
+        "author": "Leslie Lamport",
+        "year": 2003,
+        "price": 36.99
+    }
